@@ -123,7 +123,7 @@ nav {
 }
 
 
-.foodsharinglogo {
+.greenpeacelogo {
     position: relative;
     left: 2vw;
     top: 2vh;
@@ -645,7 +645,7 @@ a {
         top: 100vh;
     }
 
-    .foodsharinglogo {
+    .greenpeacelogo {
         max-height: 15vh;
     }
 
